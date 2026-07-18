@@ -1,0 +1,46 @@
+{
+  "project": "AtlasRuntime",
+  "version": "0.4.3",
+  "stage": 13,
+  "pluginVersion": 43,
+  "baseline": "User-verified AtlasRuntime v0.4.2 Stage 12 Plugin.cpp",
+  "newCapability": {
+    "interface": "NVSEMessagingInterface",
+    "message": "kMessage_MainGameLoop",
+    "minimumInterfaceVersion": 4,
+    "newSdkObjectMemberReads": 0,
+    "engineHooks": 0
+  },
+  "newEvent": "player_cell_changed",
+  "monitorState": [
+    "g_locationMonitorInitialized",
+    "g_lastCellFormId"
+  ],
+  "cacheResetMessages": [
+    "kMessage_PreLoadGame",
+    "kMessage_NewGame",
+    "kMessage_ExitToMainMenu"
+  ],
+  "runtimeHotPath": [
+    "Check runtime initialization",
+    "Read player singleton",
+    "Read player->parentCell",
+    "Read parentCell->refID",
+    "Compare cached FormID",
+    "Return immediately when unchanged"
+  ],
+  "acceptanceCriteria": [
+    "Stage 12 telemetry remains intact",
+    "No repeated cell-change events in a stable cell",
+    "Exterior cell transition produces one event",
+    "Interior entry produces one event",
+    "Interior exit produces one event",
+    "Fast travel produces a transition event when the destination FormID differs",
+    "No crash attributable to monitoring"
+  ],
+  "verification": {
+    "sourceDiffApplied": true,
+    "compiledHere": false,
+    "reason": "The Windows Win32 MSVC/xNVSE build environment is not available in this runtime."
+  }
+}
