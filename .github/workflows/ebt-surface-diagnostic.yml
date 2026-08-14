@@ -1,0 +1,109 @@
+name: EBT Surface Diagnostic Build
+
+on:
+  push:
+    branches:
+      - ebt-surface-diagnostic-build-1.11.221
+    paths:
+      - 'tools/EBTSurfaceDiagnostic/**'
+      - '.github/workflows/ebt-surface-diagnostic.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout build branch
+        uses: actions/checkout@v4
+
+      - name: Configure MSVC/Windows SDK environment
+        uses: ilammy/msvc-dev-cmd@v1
+        with:
+          arch: x64
+
+      - name: Install CMake 4.3 and Ninja
+        shell: pwsh
+        run: |
+          python -m pip install --upgrade "cmake>=4.3,<4.4"
+          choco install ninja --no-progress -y
+          cmake --version
+          ninja --version
+          clang-cl --version
+
+      - name: Fetch pinned CommonLibF4 NG
+        shell: pwsh
+        run: |
+          $project = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic'
+          New-Item -ItemType Directory -Force -Path (Join-Path $project 'lib') | Out-Null
+          git clone https://github.com/LucaDotGit/CommonLibF4.git (Join-Path $project 'lib/CommonLibF4')
+          Push-Location (Join-Path $project 'lib/CommonLibF4')
+          git checkout e337150ac993daaa9d089fcddf7a6ce9a6bad42f
+          Pop-Location
+
+      - name: Configure
+        shell: pwsh
+        run: |
+          $project = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic'
+          $vcpkg = $env:VCPKG_INSTALLATION_ROOT
+          if (-not $vcpkg) { $vcpkg = 'C:/vcpkg' }
+          cmake -S $project -B (Join-Path $project 'build') -G Ninja `
+            -DCMAKE_CXX_COMPILER=clang-cl `
+            -DCMAKE_TOOLCHAIN_FILE="$vcpkg/scripts/buildsystems/vcpkg.cmake" `
+            -DVCPKG_TARGET_TRIPLET=x64-windows-static-md `
+            -DVCPKG_HOST_TRIPLET=x64-windows-static-md `
+            -DCMAKE_BUILD_TYPE=RelWithDebInfo `
+            -DCMAKE_MSVC_RUNTIME_LIBRARY=MultiThreadedDLL
+
+      - name: Build
+        shell: pwsh
+        run: |
+          $project = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic'
+          cmake --build (Join-Path $project 'build') --parallel 4
+
+      - name: Package MO2 archive
+        shell: pwsh
+        run: |
+          $project = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic'
+          $dll = Get-ChildItem -Path (Join-Path $project 'build') -Filter 'EBTSurfaceDiagnostic.dll' -Recurse | Select-Object -First 1
+          if (-not $dll) { throw 'EBTSurfaceDiagnostic.dll was not produced.' }
+
+          $stage = Join-Path $env:GITHUB_WORKSPACE 'ebt_surface_diag_package'
+          $plugins = Join-Path $stage 'Data/F4SE/Plugins'
+          New-Item -ItemType Directory -Force -Path $plugins | Out-Null
+          Copy-Item $dll.FullName (Join-Path $plugins 'EBTSurfaceDiagnostic.dll')
+
+          $pdb = Get-ChildItem -Path (Join-Path $project 'build') -Filter 'EBTSurfaceDiagnostic.pdb' -Recurse | Select-Object -First 1
+          if ($pdb) { Copy-Item $pdb.FullName (Join-Path $plugins 'EBTSurfaceDiagnostic.pdb') }
+          Copy-Item (Join-Path $project 'README.md') (Join-Path $stage 'README_EBTSurfaceDiagnostic.md')
+
+          @'
+EBT Surface Diagnostic 1.0.0
+Target runtime: Fallout 4 1.11.221.0
+Required F4SE: 0.7.8 or newer compatible with runtime 1.11.221
+Required: current Address Library for F4SE Plugins for the 1.11.x runtime series
+
+Install as an MO2 mod. The archive's Data folder is already laid out correctly.
+Expected log: Documents\My Games\Fallout4\F4SE\EBTSurfaceDiagnostic.log
+
+Test sequence:
+1. Launch Fallout 4 through F4SE.
+2. Kill one normal human on dirt where the EBT pool works.
+3. Kill one normal human on concrete where the EBT pool does not render.
+4. Exit the game normally.
+5. Upload EBTSurfaceDiagnostic.log.
+'@ | Set-Content -Encoding UTF8 (Join-Path $stage 'INSTALL_AND_TEST.txt')
+
+          $zip = Join-Path $env:GITHUB_WORKSPACE 'EBTSurfaceDiagnostic_v1_1.11.221_MO2.zip'
+          if (Test-Path $zip) { Remove-Item $zip -Force }
+          Compress-Archive -Path (Join-Path $stage '*') -DestinationPath $zip -CompressionLevel Optimal
+          Get-FileHash $zip -Algorithm SHA256 | Format-List
+
+      - name: Upload compiled package
+        uses: actions/upload-artifact@v4
+        with:
+          name: EBTSurfaceDiagnostic-v1-1.11.221-MO2
+          path: EBTSurfaceDiagnostic_v1_1.11.221_MO2.zip
+          if-no-files-found: error
+          retention-days: 7
