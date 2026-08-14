@@ -1,0 +1,1423 @@
+[0/2] Re-checking globbed directories...
+[1/604] Building RC object CMakeFiles\EBTSurfaceDiagnostic.dir\include\Win32Version.rc.res
+[2/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\cmake_pch.cxx.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[3/604] Building CXX object CMakeFiles\EBTSurfaceDiagnostic.dir\cmake_pch.cxx.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[4/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE\H\hkCriticalSection.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[5/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\API.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[6/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\Events.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[7/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\Impl\PCH.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[8/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\Inputs.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[9/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\Menus.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[10/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\F4SE.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[11/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\MessagingInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[12/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\ObjectInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[13/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\PapyrusInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[14/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\PluginVersionData.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[15/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\QueryInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[16/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\Runtimes.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[17/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\ScaleformInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[18/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\SerializationInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[19/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\TrampolineInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[20/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\Translations.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[21/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\F4SE\TaskInterface.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[22/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\AIFormulas.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[23/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\AITimer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[24/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\ActiveEffectList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[25/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\ActiveEffect.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[26/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\Actor.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[27/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\ActorUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[28/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\A\ActorValueInfo.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[29/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSAbilityPerkEntry.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[30/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSAnimationSystemUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[31/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSBaseAlias.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[32/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSCharacterTint_Entries.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[33/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSCharacterTint_Template_Group.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[34/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSCharacterTint_Template_Groups.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[35/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSConstructibleObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[36/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSCreatedObjectManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[37/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataAVAndValue.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[38/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataActivateChoice.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[39/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataBooleanGraphVariable.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[40/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataLeveledList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[41/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataOneValue.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[42/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataSpellItem.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[43/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataText.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[44/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointFunctionDataTwoValue.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[45/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSEntryPointPerkEntry.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[46/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSInventoryItem.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[47/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSKeyword.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[48/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSInventoryList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[49/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSKeywordForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[50/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSListForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[51/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSLocAlias.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[52/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSLocation.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[53/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSMaterialType.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[54/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSMessage.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[55/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSNote.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[56/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSObjectInstanceExtra.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[57/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSPerkRankArray.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[58/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSPropertySheet.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[59/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSQuestPerkEntry.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[60/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSRefAlias.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[61/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSRefCollectionAlias.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[62/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSSaveLoadGame.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[63/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSSaveLoadManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[64/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BGSTypedKeywordValue.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[65/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSCRC32.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[66/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSCriticalSection.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[67/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSFixedString.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[68/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSGFxDisplayObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[69/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSGFxObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[70/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSGFxShaderFXTarget.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[71/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSGraphics_Utility.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[72/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSHandleRefObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[73/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSInputDevice.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[74/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSInputDeviceManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[75/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSInputEnableLayer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[76/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSInputEnableManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[77/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSIntrusiveRefCounted.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[78/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSPointerHandle.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[79/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSPointerHandleSmartPointer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[80/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSPrecisionTimer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[81/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSRandom.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[82/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResource.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[83/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResourceNiBinaryStream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[84/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResourceStreamParser.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[85/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResource_Archive2_AsyncReaderStream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[86/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResource_Archive2_ReaderStream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[87/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResource_AsyncStream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[88/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResource_Stream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[89/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSResource_StreamBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[90/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScaleformManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[91/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScaleformTranslator.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[92/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_Array.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[93/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_ByteCode_PackedInstructionStream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[94/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_IComplexType.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[95/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_IFunction.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[96/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_IVirtualMachine.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[97/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_Internal_VDescTable.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[98/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_Internal_VirtualMachine.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[99/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_NF_util_NativeFunctionBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[100/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_Object.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[101/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_ObjectBindPolicy.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[102/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_ObjectTypeInfo.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[103/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_StackFrame.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[104/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_Struct.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[105/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_StructTypeInfo.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[106/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_TypeInfo.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[107/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSScript_Variable.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[108/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSSemaphore.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[109/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSShaderUtil.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[110/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSSpinLock.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[111/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSSpring_SpringState.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[112/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSStreamParser.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[113/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSStringPool.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[114/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSStringT.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[115/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSSystemFileStreamer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[116/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSTAtomicValue.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[117/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSTDataBuffer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[118/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSTInterpolator.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[119/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSTPoint.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[120/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSTimer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[121/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSUntypedPointerHandle.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[122/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSUtilities.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[123/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BSVisit.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[124/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BaseExtraList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[125/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\BucketTable.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[126/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\ButtonEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[127/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\B\bhkUtilFunctions.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[128/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\Calendar.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[129/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\CharacterEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[130/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\CombatFormulas.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[131/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\CombatUtilities.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[132/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\ComparisonQualifiers.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[133/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\Console.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[134/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\ConsoleLog.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[135/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\ControlMap.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[136/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\C\CursorMoveEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[137/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\D\DeviceConnectEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[138/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\E\ExtraDataList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[139/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\E\ExtraKeywords.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[140/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\E\ExtraTextDisplayData.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[141/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\F\FORM_ENUM_STRING.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[142/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameMenuBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[143/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GamePlayFormulas.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[144/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameScript.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[145/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameScript_FormOrInventoryObj.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[146/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameScript_Internal_ScriptTimer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[147/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameScript_HandlePolicy.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[148/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameScript_RefrOrInventoryObj.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[149/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GameVM.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[150/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\G\GetCurrentPositionFunctor.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[151/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\HUDMenuUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[152/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkContainerDebugAllocator.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[153/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkContainerHeapAllocator.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[154/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\Game.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[155/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkContainerTempAllocator.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[156/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkMemoryAllocator.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[157/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkMemoryRouter.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[158/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkReferencedObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[159/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\H\hkVisualDebugger.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[160/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\I\IDEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[161/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\I\IFormFactory.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[162/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\I\IMenu.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[163/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\I\InventoryUserUIUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[164/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\K\KinectEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[165/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MagicTarget.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[166/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MagicItem.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[167/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\Main.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[168/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MemoryManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[169/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MenuCursor.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[170/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MenuControls.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[171/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MessageMenuManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[172/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\M\MouseMoveEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[173/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiAVObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[174/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiAlphaProperty.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[175/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiBinaryStream.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[176/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiMatrix3.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[177/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiMemManager.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[178/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiNode.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[179/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[180/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiRect.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[181/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiObjectNET.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[182/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\NiRefObject.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[183/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\N\nsStatsMenuUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[184/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PerkUtilities.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[185/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PipboyInventoryUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[186/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PlayerCamera.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[187/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PlayerCharacter.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[188/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PlayerControls.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[189/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PowerUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[190/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\PowerArmor.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[191/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\P\ProcessLists.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[192/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\R\REFR_LOCK.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[193/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\RTTI.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[194/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SCRIPT_FUNCTION.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[195/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SWFToCodeFunctionHandler.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[196/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\ScrapHeap.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[197/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\Script.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[198/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\ScreenSplatter.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[199/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\Setting.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[200/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SettingCollection.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[201/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SettingCollectionList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[202/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SettingCollectionMap.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[203/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SettingT.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[204/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SettingUtil.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[205/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\SplineUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[206/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\S\StartMenuBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[207/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TES.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[208/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESActorBaseData.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[209/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESClimate.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[210/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESContainer.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[211/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESDescription.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[212/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESDataHandler.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[213/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESFile.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[214/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESFileCollection.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[215/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[216/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESFullName.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[217/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESHealthForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[218/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESLeveledList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[219/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESObjectBOOK.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[220/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESObjectCELL.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[221/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESNPC.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[222/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESObjectMISC.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[223/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESObjectREFR.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[224/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESQuest.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[225/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESReactionForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[226/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESRegionList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[227/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESSpellList.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[228/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESWeightForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[229/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESWorldSpace.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[230/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\TESValueForm.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[231/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\T\ThumbstickEvent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[232/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\U\UI.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[233/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\U\UIMessageQueue.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[234/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\U\UIUtils.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[235/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\W\WorkbenchMenuBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[236/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\RE\W\Workshop.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[237/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\BytePattern.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[238/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\HookStore.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[239/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Id.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[240/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\IHook.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[241/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Iat.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[242/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Iddb.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[243/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Memory.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[244/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Offset.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[245/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Module.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[246/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\REL.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[247/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Size.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[248/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\RTTI.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[249/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Trampoline.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[250/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REL\Value.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[251/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Compare.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[252/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\AtomicRef.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[253/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Concurrent.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[254/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Contract.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[255/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Convert.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[256/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Crypto.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[257/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Crc.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[258/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Error.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[259/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Fnv1a.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[260/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Hash.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[261/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\IO.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[262/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Ini.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[263/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\IniUtility.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[264/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Json.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[265/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\JsonUtility.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[266/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Locale.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[267/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Log.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[268/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Math.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[269/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\MemoryMap.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[270/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Message.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[271/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\PCH.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[272/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\PS4.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[273/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Path.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[274/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\REX.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[275/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Random.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[276/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\SourceLocation.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[277/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Stopwatch.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[278/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\ThreadPool.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[279/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Toml.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[280/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\TomlUtility.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[281/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Translate.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[282/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Uuid.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[283/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Version.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[284/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\W32.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[285/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Wildcards.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[286/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\REX\Windows.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[287/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\A\Atomic.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[288/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\G\GFx_ASMovieRootBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[289/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\G\GFx_FunctionHandler.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[290/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\G\GFx_Movie.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[291/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\G\GFx_Resource.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[292/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\G\GFx_Value.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[293/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\M\Memory.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[294/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\R\RefCountBase.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[295/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\R\Render_Matrix.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[296/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\R\Render_Point.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[297/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\R\Render_Rect.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[298/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\Scaleform\Scaleform.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[299/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src\msvc\msvc.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[300/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[301/604] Generating CXX dyndep file CommonLibF4\CMakeFiles\CommonLibF4.dir\CXX.dd
+[302/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\include\RE\H\hkCriticalSection.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[303/604] Scanning D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp for CXX dependencies
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[304/604] Generating CXX dyndep file CMakeFiles\EBTSurfaceDiagnostic.dir\CXX.dd
+[305/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\Impl\PCH.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[306/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\API.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[307/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\Inputs.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[308/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\MessagingInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[309/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\ObjectInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[310/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\PapyrusInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[311/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\Events.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[312/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\QueryInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[313/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\Runtimes.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[314/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\PluginVersionData.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[315/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\Menus.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[316/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\ScaleformInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[317/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\SerializationInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[318/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\TaskInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[319/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\TrampolineInterface.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[320/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\AIFormulas.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[321/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\AITimer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[322/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\ActiveEffectList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[323/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\Translations.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[324/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\ActorUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[325/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\ActiveEffect.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[326/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSAbilityPerkEntry.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[327/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSAnimationSystemUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[328/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\ActorValueInfo.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[329/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSBaseAlias.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[330/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSCharacterTint_Entries.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[331/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\A\Actor.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[332/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSCharacterTint_Template_Groups.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[333/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSCharacterTint_Template_Group.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[334/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataAVAndValue.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[335/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSConstructibleObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[336/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataActivateChoice.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[337/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSCreatedObjectManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[338/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataBooleanGraphVariable.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[339/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataLeveledList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[340/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataOneValue.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[341/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataSpellItem.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[342/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataTwoValue.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[343/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointPerkEntry.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[344/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSEntryPointFunctionDataText.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[345/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSInventoryItem.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[346/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSInventoryList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[347/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSKeyword.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[348/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSLocAlias.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[349/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSKeywordForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[350/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSListForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[351/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSMaterialType.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[352/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSLocation.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[353/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSMessage.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[354/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSObjectInstanceExtra.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[355/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSPerkRankArray.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[356/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSNote.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[357/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSQuestPerkEntry.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[358/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSPropertySheet.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[359/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSRefAlias.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[360/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSRefCollectionAlias.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[361/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSSaveLoadGame.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[362/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSTypedKeywordValue.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[363/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSCRC32.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[364/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSCriticalSection.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[365/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BGSSaveLoadManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[366/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSFixedString.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[367/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSGFxDisplayObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[368/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSGFxObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[369/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSGraphics_Utility.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[370/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSHandleRefObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[371/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSInputDevice.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[372/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSInputDeviceManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[373/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSGFxShaderFXTarget.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[374/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSInputEnableLayer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[375/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSIntrusiveRefCounted.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[376/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSPointerHandleSmartPointer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[377/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSInputEnableManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[378/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSPrecisionTimer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[379/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSRandom.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[380/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResource.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[381/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResourceNiBinaryStream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[382/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResourceStreamParser.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[383/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResource_Archive2_AsyncReaderStream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[384/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResource_Archive2_ReaderStream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[385/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSPointerHandle.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[386/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResource_AsyncStream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[387/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResource_StreamBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[388/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSResource_Stream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[389/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScaleformTranslator.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[390/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_ByteCode_PackedInstructionStream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[391/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\F4SE\F4SE.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[392/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScaleformManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[393/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_Array.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[394/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_IComplexType.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[395/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_Internal_VDescTable.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[396/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_IFunction.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[397/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_NF_util_NativeFunctionBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[398/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_IVirtualMachine.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[399/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_Internal_VirtualMachine.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[400/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_ObjectBindPolicy.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[401/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_StackFrame.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[402/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_Object.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[403/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_ObjectTypeInfo.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[404/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_Struct.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[405/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_StructTypeInfo.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[406/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSSemaphore.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[407/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSShaderUtil.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[408/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_TypeInfo.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[409/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSSpinLock.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[410/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSSpring_SpringState.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[411/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSStreamParser.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[412/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSScript_Variable.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[413/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSStringPool.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[414/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSSystemFileStreamer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[415/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSTInterpolator.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[416/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSStringT.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[417/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSTDataBuffer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[418/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSTAtomicValue.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[419/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSUntypedPointerHandle.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[420/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSTimer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[421/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSTPoint.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[422/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSUtilities.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[423/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BaseExtraList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[424/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BucketTable.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[425/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\bhkUtilFunctions.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[426/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\BSVisit.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[427/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\B\ButtonEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[428/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\CombatUtilities.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[429/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\CharacterEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[430/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\Calendar.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[431/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\ComparisonQualifiers.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[432/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\CombatFormulas.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[433/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\ControlMap.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[434/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\Console.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[435/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\E\ExtraDataList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[436/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\CursorMoveEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[437/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\D\DeviceConnectEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[438/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\C\ConsoleLog.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[439/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\F\FORM_ENUM_STRING.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[440/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\E\ExtraKeywords.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[441/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GamePlayFormulas.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[442/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\E\ExtraTextDisplayData.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[443/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameMenuBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[444/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameScript_Internal_ScriptTimer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[445/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameScript.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[446/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameScript_FormOrInventoryObj.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[447/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GetCurrentPositionFunctor.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[448/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameScript_HandlePolicy.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[449/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\HUDMenuUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[450/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkContainerDebugAllocator.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[451/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkContainerHeapAllocator.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[452/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkContainerTempAllocator.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[453/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameScript_RefrOrInventoryObj.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[454/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkMemoryRouter.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[455/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkMemoryAllocator.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[456/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\G\GameVM.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[457/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkReferencedObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[458/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\I\IFormFactory.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[459/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\H\hkVisualDebugger.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[460/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\I\IDEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[461/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\K\KinectEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[462/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\I\InventoryUserUIUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[463/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\I\IMenu.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[464/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MagicTarget.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[465/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MagicItem.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[466/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\Main.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[467/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MenuControls.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[468/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MenuCursor.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[469/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MemoryManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[470/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MouseMoveEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[471/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiAVObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[472/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\M\MessageMenuManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[473/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiBinaryStream.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[474/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiMatrix3.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[475/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiAlphaProperty.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[476/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[477/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiMemManager.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[478/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiRect.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[479/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiNode.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[480/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiRefObject.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[481/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\NiObjectNET.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[482/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\N\nsStatsMenuUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[483/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PerkUtilities.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[484/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PipboyInventoryUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[485/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PlayerCamera.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[486/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PlayerControls.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[487/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PowerUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[488/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PlayerCharacter.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[489/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\R\REFR_LOCK.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[490/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\RTTI.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[491/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\PowerArmor.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[492/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\P\ProcessLists.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[493/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SCRIPT_FUNCTION.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[494/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\ScrapHeap.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[495/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SWFToCodeFunctionHandler.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[496/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\ScreenSplatter.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[497/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SettingCollection.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[498/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SettingCollectionList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[499/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\Script.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[500/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\Setting.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[501/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SettingT.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[502/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SettingCollectionMap.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[503/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SplineUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[504/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\SettingUtil.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[505/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESActorBaseData.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[506/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TES.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[507/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESClimate.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[508/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESContainer.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[509/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\S\StartMenuBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[510/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESDescription.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[511/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESFileCollection.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[512/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESDataHandler.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[513/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESFile.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[514/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[515/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESHealthForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[516/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESFullName.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[517/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESObjectBOOK.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[518/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESLeveledList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[519/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\Game.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[520/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESObjectMISC.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[521/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESObjectCELL.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[522/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESNPC.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[523/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESReactionForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[524/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESQuest.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[525/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESSpellList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[526/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESRegionList.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[527/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESObjectREFR.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[528/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESValueForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[529/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\ThumbstickEvent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[530/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESWeightForm.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[531/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\T\TESWorldSpace.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[532/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\U\UIUtils.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[533/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\U\UIMessageQueue.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[534/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\BytePattern.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[535/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\W\Workshop.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[536/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\U\UI.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[537/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Iat.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[538/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\IHook.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[539/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Id.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[540/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Memory.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[541/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\HookStore.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[542/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Module.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[543/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Offset.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[544/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\REL.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[545/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\RTTI.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[546/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Size.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[547/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\RE\W\WorkbenchMenuBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[548/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\AtomicRef.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[549/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Iddb.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[550/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Trampoline.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[551/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REL\Value.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[552/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Concurrent.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[553/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Contract.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[554/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Crc.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[555/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Crypto.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[556/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Error.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[557/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Compare.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[558/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Convert.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[559/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Hash.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[560/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Ini.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[561/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Fnv1a.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[562/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\IniUtility.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[563/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Json.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[564/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\JsonUtility.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[565/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\IO.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[566/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\MemoryMap.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[567/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Math.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[568/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Locale.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[569/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\PCH.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[570/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\PS4.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[571/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Path.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[572/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\REX.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[573/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Log.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[574/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\SourceLocation.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[575/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Message.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[576/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Stopwatch.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[577/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Random.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[578/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\TomlUtility.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[579/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Toml.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[580/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Uuid.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[581/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\W32.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[582/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\ThreadPool.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[583/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Translate.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[584/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Wildcards.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[585/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Version.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[586/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\A\Atomic.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[587/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\G\GFx_ASMovieRootBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[588/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\REX\Windows.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[589/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\G\GFx_FunctionHandler.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[590/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\G\GFx_Resource.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[591/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\M\Memory.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[592/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\R\RefCountBase.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[593/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\G\GFx_Movie.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[594/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\R\Render_Point.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[595/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\R\Render_Rect.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[596/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\R\Render_Matrix.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[597/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\msvc\msvc.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[598/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\Scaleform.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[599/604] Building CXX object CommonLibF4\CMakeFiles\CommonLibF4.dir\src\Scaleform\G\GFx_Value.cpp.obj
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+[600/604] Building CXX object CMakeFiles\EBTSurfaceDiagnostic.dir\src\Main.cpp.obj
+FAILED: [code=2] CMakeFiles/EBTSurfaceDiagnostic.dir/src/Main.cpp.obj 
+C:\PROGRA~1\MICROS~2\18\ENTERP~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe  /nologo /TP -DCOMMONLIB_OPTION_FMT=1 -DCOMMONLIB_OPTION_INI=0 -DCOMMONLIB_OPTION_JSON=0 -DCOMMONLIB_OPTION_TOML=0 -DCOMMONLIB_OPTION_XBYAK=0 -DCOMMONLIB_RUNTIME_AE=1 -DCOMMONLIB_RUNTIME_NG=0 -DCOMMONLIB_RUNTIME_OG=0 -DCOMMONLIB_RUNTIME_VR=0 -DEBTSurfaceDiagnostic_EXPORTS -DNOMINMAX=1 -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DVC_EXTRALEAN=1 -DWIN32_LEAN_AND_MEAN=1 -DWINVER=0x0A00 -D_MBCS -D_WIN32_WINNT=0x0A00 -D_WINDLL -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src -external:ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\vcpkg_installed\x64-windows-static-md\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -std:c++latest -MD -Zi /GL /arch:SSE4.2 /await:strict /bigobj /cgthreads8 /diagnostics:caret /EHsc /external:W0 /fp:contract /fp:except- /guard:cf- /jumptablerdata /MP /nologo /options:strict /permissive- /sdl- /utf-8 /volatile:iso /W4 /WX /Zc:__cplusplus /Zc:checkGwOdr /Zc:enumTypes /Zc:inline /Zc:preprocessor /Zc:templateScope /Zc:throwingNew /Zc:trigraphs /Zf /ZH:SHA_256 /Zi /GL /Gw /Ob2 /O2 /we4746 /wd4200 /wd4201 /wd4324 /YuD:/a/AtlasRuntime/AtlasRuntime/tools/EBTSurfaceDiagnostic/build/CMakeFiles/EBTSurfaceDiagnostic.dir/cmake_pch.hxx /FpD:/a/AtlasRuntime/AtlasRuntime/tools/EBTSurfaceDiagnostic/build/CMakeFiles/EBTSurfaceDiagnostic.dir/.//cmake_pch.cxx.pch /FID:/a/AtlasRuntime/AtlasRuntime/tools/EBTSurfaceDiagnostic/build/CMakeFiles/EBTSurfaceDiagnostic.dir/cmake_pch.hxx /showIncludes @CMakeFiles\EBTSurfaceDiagnostic.dir\src\Main.cpp.obj.modmap /FoCMakeFiles\EBTSurfaceDiagnostic.dir\src\Main.cpp.obj /FdCMakeFiles\EBTSurfaceDiagnostic.dir\ /FS -c D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(57,80): error C2039: '->': is not a member of 'RE::hkPadSpu<RE::CFilter>'
+            const auto* filter = a_result.hitBodyInfo.shapeCollisionFilterInfo.operator->();
+                                                                               ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/H/hkPadSpu.hpp(6,8): note: see declaration of 'RE::hkPadSpu<RE::CFilter>'
+	class hkPadSpu
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(58,18): error C3536: 'filter': cannot be used before it is initialized
+            if (!filter) {
+                 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(62,24): error C2737: 'layer': const object must be initialized
+            const auto layer = filter->GetCollisionLayer();
+                       ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(63,21): error C3536: 'layer': cannot be used before it is initialized
+            switch (layer) {
+                    ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(108,38): error C2819: type 'RE::hkPadSpu<uint32_t>' does not have an overloaded member 'operator ->'
+        pickData.castQuery.filterData.collisionFilterInfo->SetCollisionLayer(RE::COL_LAYER::kLOS);
+                                     ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/H/hkPadSpu.hpp(6,8): note: see declaration of 'RE::hkPadSpu<uint32_t>'
+	class hkPadSpu
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(108,38): note: did you intend to use '.' instead?
+        pickData.castQuery.filterData.collisionFilterInfo->SetCollisionLayer(RE::COL_LAYER::kLOS);
+                                     ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(108,60): error C2039: 'SetCollisionLayer': is not a member of 'RE::hkPadSpu<uint32_t>'
+        pickData.castQuery.filterData.collisionFilterInfo->SetCollisionLayer(RE::COL_LAYER::kLOS);
+                                                           ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/H/hkPadSpu.hpp(6,8): note: see declaration of 'RE::hkPadSpu<uint32_t>'
+	class hkPadSpu
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(111,50): error C2039: 'Pick': is not a member of 'RE::TES'
+        auto* hitNode = RE::TES::GetSingleton()->Pick(pickData);
+                                                 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/T/TES.hpp(41,29): note: see declaration of 'RE::TES'
+	class __declspec(novtable) TES
+	                           ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(121,87): error C2039: '->': is not a member of 'RE::hkPadSpu<RE::CFilter>'
+        if (const auto* filter = pickData.result.hitBodyInfo.shapeCollisionFilterInfo.operator->()) {
+                                                                                      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/H/hkPadSpu.hpp(6,8): note: see declaration of 'RE::hkPadSpu<RE::CFilter>'
+	class hkPadSpu
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(121,25): error C3536: 'filter': cannot be used before it is initialized
+        if (const auto* filter = pickData.result.hitBodyInfo.shapeCollisionFilterInfo.operator->()) {
+                        ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(126,20): error C3536: 'hitNode': cannot be used before it is initialized
+        out.node = hitNode;
+                   ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(134,18): error C2039: 'INFO': is not a member of 'REX'
+            REX::INFO("[EBT-SURFACE] sample={} offset=({:.1f},{:.1f}) MISS", a_sampleIndex, a_dx, a_dy);
+                 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(134,18): error C3861: 'INFO': identifier not found
+            REX::INFO("[EBT-SURFACE] sample={} offset=({:.1f},{:.1f}) MISS", a_sampleIndex, a_dx, a_dy);
+                 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(155,32): error C2027: use of undefined type 'RE::NiAVObject'
+        if (a_hit.node && a_hit.node->name.c_str()) {
+                               ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/B/bhkPickData.hpp(14,8): note: see declaration of 'RE::NiAVObject'
+	class NiAVObject;
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(156,29): error C2027: use of undefined type 'RE::NiAVObject'
+            nodeName = a_hit.node->name.c_str();
+                            ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\RE/B/bhkPickData.hpp(14,8): note: see declaration of 'RE::NiAVObject'
+	class NiAVObject;
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(159,14): error C2039: 'INFO': is not a member of 'REX'
+        REX::INFO(
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(159,14): error C3861: 'INFO': identifier not found
+        REX::INFO(
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(193,14): error C2039: 'INFO': is not a member of 'REX'
+        REX::INFO("[EBT-SURFACE] ============================================================");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(193,14): error C3861: 'INFO': identifier not found
+        REX::INFO("[EBT-SURFACE] ============================================================");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(194,14): error C2039: 'INFO': is not a member of 'REX'
+        REX::INFO(
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(194,14): error C3861: 'INFO': identifier not found
+        REX::INFO(
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(223,14): error C2039: 'INFO': is not a member of 'REX'
+        REX::INFO("[EBT-SURFACE] END DEATH");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(223,14): error C3861: 'INFO': identifier not found
+        REX::INFO("[EBT-SURFACE] END DEATH");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(249,18): error C2039: 'ERROR': is not a member of 'REX'
+            REX::ERROR("[EBT-SURFACE] Failed to register TESDeathEvent sink");
+                 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(249,18): error C3861: 'ERROR': identifier not found
+            REX::ERROR("[EBT-SURFACE] Failed to register TESDeathEvent sink");
+                 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(253,14): error C2039: 'INFO': is not a member of 'REX'
+        REX::INFO("[EBT-SURFACE] TESDeathEvent sink registered");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(253,14): error C3861: 'INFO': identifier not found
+        REX::INFO("[EBT-SURFACE] TESDeathEvent sink registered");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(262,24): error C2039: 'type': is not a member of 'F4SE::MessagingInterface::Message'
+        if (a_message->type == F4SE::MessagingInterface::kGameDataReady ||
+                       ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/MessagingInterface.hpp(56,28): note: see declaration of 'F4SE::MessagingInterface::Message'
+	class MessagingInterface::Message final
+	                          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(262,58): error C2039: 'kGameDataReady': is not a member of 'F4SE::MessagingInterface'
+        if (a_message->type == F4SE::MessagingInterface::kGameDataReady ||
+                                                         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/MessagingInterface.hpp(11,8): note: see declaration of 'F4SE::MessagingInterface'
+	class MessagingInterface final
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(262,58): error C2065: 'kGameDataReady': undeclared identifier
+        if (a_message->type == F4SE::MessagingInterface::kGameDataReady ||
+                                                         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(263,24): error C2039: 'type': is not a member of 'F4SE::MessagingInterface::Message'
+            a_message->type == F4SE::MessagingInterface::kGameLoaded) {
+                       ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/MessagingInterface.hpp(56,28): note: see declaration of 'F4SE::MessagingInterface::Message'
+	class MessagingInterface::Message final
+	                          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(263,58): error C2039: 'kGameLoaded': is not a member of 'F4SE::MessagingInterface'
+            a_message->type == F4SE::MessagingInterface::kGameLoaded) {
+                                                         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/MessagingInterface.hpp(11,8): note: see declaration of 'F4SE::MessagingInterface'
+	class MessagingInterface final
+	      ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(263,58): error C2065: 'kGameLoaded': undeclared identifier
+            a_message->type == F4SE::MessagingInterface::kGameLoaded) {
+                                                         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(275,10): error C2039: 'INFO': is not a member of 'REX'
+    REX::INFO("[EBT-SURFACE] EBTSurfaceDiagnostic 1.0.0 starting");
+         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(275,10): error C3861: 'INFO': identifier not found
+    REX::INFO("[EBT-SURFACE] EBTSurfaceDiagnostic 1.0.0 starting");
+         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(276,10): error C2039: 'INFO': is not a member of 'REX'
+    REX::INFO("[EBT-SURFACE] Runtime={} F4SE={}", runtime, f4se);
+         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(276,10): error C3861: 'INFO': identifier not found
+    REX::INFO("[EBT-SURFACE] Runtime={} F4SE={}", runtime, f4se);
+         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(277,10): error C2039: 'INFO': is not a member of 'REX'
+    REX::INFO("[EBT-SURFACE] RayStartHeight={} RayDepth={} GridSpacing={}", kRayStartHeight, kRayDepth, kGridSpacing);
+         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(277,10): error C3861: 'INFO': identifier not found
+    REX::INFO("[EBT-SURFACE] RayStartHeight={} RayDepth={} GridSpacing={}", kRayStartHeight, kRayDepth, kGridSpacing);
+         ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(280,9): error C2171: operator '!' cannot be applied to an operand of type 'void'
+    if (!messaging->RegisterListener(MessageHandler)) {
+        ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(280,9): error C2451: a conditional expression of type 'void' is not valid
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(280,9): note: Expressions of type void cannot be converted to other types
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(281,14): error C2039: 'ERROR': is not a member of 'REX'
+        REX::ERROR("[EBT-SURFACE] Failed to register F4SE messaging listener");
+             ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include\F4SE/API.hpp(9,11): note: see declaration of 'REX'
+namespace REX
+          ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src\Main.cpp(281,14): error C3861: 'ERROR': identifier not found
+        REX::ERROR("[EBT-SURFACE] Failed to register F4SE messaging listener");
+             ^
+[601/604] Linking CXX static library CommonLibF4\CommonLibF4.lib
+[602/604] Building CXX object CMakeFiles\EBTSurfaceDiagnostic.dir\include\XsePluginInfo.cpp.obj
+FAILED: [code=2] CMakeFiles/EBTSurfaceDiagnostic.dir/include/XsePluginInfo.cpp.obj 
+C:\PROGRA~1\MICROS~2\18\ENTERP~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\cl.exe  /nologo /TP -DCOMMONLIB_OPTION_FMT=1 -DCOMMONLIB_OPTION_INI=0 -DCOMMONLIB_OPTION_JSON=0 -DCOMMONLIB_OPTION_TOML=0 -DCOMMONLIB_OPTION_XBYAK=0 -DCOMMONLIB_RUNTIME_AE=1 -DCOMMONLIB_RUNTIME_NG=0 -DCOMMONLIB_RUNTIME_OG=0 -DCOMMONLIB_RUNTIME_VR=0 -DEBTSurfaceDiagnostic_EXPORTS -DNOMINMAX=1 -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DVC_EXTRALEAN=1 -DWIN32_LEAN_AND_MEAN=1 -DWINVER=0x0A00 -D_MBCS -D_WIN32_WINNT=0x0A00 -D_WINDLL -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\src -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\include -ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\lib\CommonLibF4\src -external:ID:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\vcpkg_installed\x64-windows-static-md\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -std:c++latest -MD -Zi /GL /arch:SSE4.2 /await:strict /bigobj /cgthreads8 /diagnostics:caret /EHsc /external:W0 /fp:contract /fp:except- /guard:cf- /jumptablerdata /MP /nologo /options:strict /permissive- /sdl- /utf-8 /volatile:iso /W4 /WX /Zc:__cplusplus /Zc:checkGwOdr /Zc:enumTypes /Zc:inline /Zc:preprocessor /Zc:templateScope /Zc:throwingNew /Zc:trigraphs /Zf /ZH:SHA_256 /Zi /GL /Gw /Ob2 /O2 /we4746 /wd4200 /wd4201 /wd4324 /YuD:/a/AtlasRuntime/AtlasRuntime/tools/EBTSurfaceDiagnostic/build/CMakeFiles/EBTSurfaceDiagnostic.dir/cmake_pch.hxx /FpD:/a/AtlasRuntime/AtlasRuntime/tools/EBTSurfaceDiagnostic/build/CMakeFiles/EBTSurfaceDiagnostic.dir/.//cmake_pch.cxx.pch /FID:/a/AtlasRuntime/AtlasRuntime/tools/EBTSurfaceDiagnostic/build/CMakeFiles/EBTSurfaceDiagnostic.dir/cmake_pch.hxx /showIncludes @CMakeFiles\EBTSurfaceDiagnostic.dir\include\XsePluginInfo.cpp.obj.modmap /FoCMakeFiles\EBTSurfaceDiagnostic.dir\include\XsePluginInfo.cpp.obj /FdCMakeFiles\EBTSurfaceDiagnostic.dir\ /FS -c D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp
+cl : Command line warning D9025 : overriding '/Ob1' with '/Ob2'
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(41,3): error C2760: syntax error: 'F4SE' was unexpected here; expected '}'
+		F4SE::RUNTIME_LATEST_AE
+		^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(41,7): error C3878: syntax error: unexpected token '::' following 'expression'
+		F4SE::RUNTIME_LATEST_AE
+		    ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(43,2): error C2760: syntax error: '}' was unexpected here; expected ';'
+	});
+	^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(43,3): error C2059: syntax error: ')'
+	});
+	 ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(43,4): error C2059: syntax error: ';'
+	});
+	  ^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(45,2): error C2059: syntax error: 'return'
+	return versionData;
+	^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(46,1): error C2059: syntax error: '}'
+}();
+^
+D:\a\AtlasRuntime\AtlasRuntime\tools\EBTSurfaceDiagnostic\build\include\XsePluginInfo.cpp(46,1): error C2143: syntax error: missing ';' before '}'
+ninja: build stopped: subcommand failed.
+EXIT_CODE=2
