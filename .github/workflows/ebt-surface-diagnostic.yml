@@ -9,6 +9,9 @@ on:
       - '.github/workflows/ebt-surface-diagnostic.yml'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: windows-latest
@@ -68,12 +71,39 @@ jobs:
             -DCMAKE_MSVC_RUNTIME_LIBRARY=MultiThreadedDLL
 
       - name: Build
+        id: build
+        continue-on-error: true
         shell: pwsh
         run: |
           $project = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic'
-          cmake --build (Join-Path $project 'build') --parallel 4
+          $log = Join-Path $env:GITHUB_WORKSPACE 'EBTSurfaceDiagnostic_build.log'
+          cmake --build (Join-Path $project 'build') --parallel 4 2>&1 | Tee-Object -FilePath $log
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
+      - name: Persist compiler transcript
+        if: always()
+        shell: pwsh
+        run: |
+          $src = Join-Path $env:GITHUB_WORKSPACE 'EBTSurfaceDiagnostic_build.log'
+          $dir = Join-Path $env:GITHUB_WORKSPACE '.ci-results'
+          $dst = Join-Path $dir 'EBTSurfaceDiagnostic_build.log'
+          New-Item -ItemType Directory -Force -Path $dir | Out-Null
+          if (Test-Path $src) {
+            Copy-Item $src $dst -Force
+          } else {
+            'Build log was not produced.' | Set-Content -Encoding UTF8 $dst
+          }
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .ci-results/EBTSurfaceDiagnostic_build.log
+          git diff --cached --quiet
+          if ($LASTEXITCODE -ne 0) {
+            git commit -m 'Record EBT diagnostic compiler transcript'
+            git push origin HEAD:ebt-surface-diagnostic-build-1.11.221
+          }
 
       - name: Package MO2 archive
+        if: steps.build.outcome == 'success'
         shell: pwsh
         run: |
           $project = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic'
@@ -113,9 +143,15 @@ jobs:
           Get-FileHash $zip -Algorithm SHA256 | Format-List
 
       - name: Upload compiled package
+        if: steps.build.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: EBTSurfaceDiagnostic-v1-1.11.221-MO2
           path: EBTSurfaceDiagnostic_v1_1.11.221_MO2.zip
           if-no-files-found: error
           retention-days: 7
+
+      - name: Fail job if build failed
+        if: steps.build.outcome != 'success'
+        shell: pwsh
+        run: exit 1
