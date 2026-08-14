@@ -42,6 +42,17 @@ jobs:
           git checkout e337150ac993daaa9d089fcddf7a6ce9a6bad42f
           Pop-Location
 
+      - name: Patch CommonLibF4 AE Profiler size assertion
+        shell: pwsh
+        run: |
+          $header = Join-Path $env:GITHUB_WORKSPACE 'tools/EBTSurfaceDiagnostic/lib/CommonLibF4/include/RE/G/GameScript_Profiler.hpp'
+          $text = Get-Content -Raw $header
+          $old = 'static_assert(sizeof(Profiler) == 0x0E0);'
+          $new = 'static_assert(sizeof(Profiler) == 0x110);'
+          if (-not $text.Contains($old)) { throw 'Expected CommonLibF4 Profiler assertion not found; refusing blind patch.' }
+          $text.Replace($old, $new) | Set-Content -NoNewline -Encoding UTF8 $header
+          Select-String -Path $header -Pattern 'sizeof\(Profiler\)'
+
       - name: Configure
         shell: pwsh
         run: |
