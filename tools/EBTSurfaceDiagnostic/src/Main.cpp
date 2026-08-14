@@ -1,5 +1,8 @@
 #include "PCH.hpp"
 
+#include "F4SE/API.hpp"
+#include "F4SE/LoadInterface.hpp"
+#include "F4SE/MessagingInterface.hpp"
 #include "RE/B/bhkPickData.hpp"
 #include "RE/C/COL_LAYER.hpp"
 #include "RE/H/hknpClosestHitCollector.hpp"
@@ -273,13 +276,9 @@ F4SE_PLUGIN_LOAD(const F4SE::LoadInterface* a_f4se)
     REX::INFO("[EBT-SURFACE] Runtime={} F4SE={}", runtime, f4se);
     REX::INFO("[EBT-SURFACE] RayStartHeight={} RayDepth={} GridSpacing={}", kRayStartHeight, kRayDepth, kGridSpacing);
 
-    if (const auto* messaging = F4SE::GetMessagingInterface()) {
-        if (!messaging->RegisterListener(MessageHandler)) {
-            REX::ERROR("[EBT-SURFACE] Failed to register F4SE messaging listener");
-            return false;
-        }
-    } else {
-        REX::ERROR("[EBT-SURFACE] F4SE messaging interface unavailable");
+    const auto* messaging = F4SE::GetMessagingInterface().get();
+    if (!messaging->RegisterListener(MessageHandler)) {
+        REX::ERROR("[EBT-SURFACE] Failed to register F4SE messaging listener");
         return false;
     }
 
