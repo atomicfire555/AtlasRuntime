@@ -78,22 +78,23 @@ jobs:
           if ($pdb) { Copy-Item $pdb.FullName (Join-Path $plugins 'EBTSurfaceDiagnostic.pdb') }
           Copy-Item (Join-Path $project 'README.md') (Join-Path $stage 'README_EBTSurfaceDiagnostic.md')
 
-          @'
-EBT Surface Diagnostic 1.0.0
-Target runtime: Fallout 4 1.11.221.0
-Required F4SE: 0.7.8 or newer compatible with runtime 1.11.221
-Required: current Address Library for F4SE Plugins for the 1.11.x runtime series
-
-Install as an MO2 mod. The archive's Data folder is already laid out correctly.
-Expected log: Documents\My Games\Fallout4\F4SE\EBTSurfaceDiagnostic.log
-
-Test sequence:
-1. Launch Fallout 4 through F4SE.
-2. Kill one normal human on dirt where the EBT pool works.
-3. Kill one normal human on concrete where the EBT pool does not render.
-4. Exit the game normally.
-5. Upload EBTSurfaceDiagnostic.log.
-'@ | Set-Content -Encoding UTF8 (Join-Path $stage 'INSTALL_AND_TEST.txt')
+          $instructions = @(
+            'EBT Surface Diagnostic 1.0.0',
+            'Target runtime: Fallout 4 1.11.221.0',
+            'Required F4SE: 0.7.8 compatible with runtime 1.11.221',
+            'Required: current Address Library for F4SE Plugins for the 1.11.x runtime series',
+            '',
+            'Install as an MO2 mod. The archive Data folder is already laid out correctly.',
+            'Expected log: Documents\My Games\Fallout4\F4SE\EBTSurfaceDiagnostic.log',
+            '',
+            'Test sequence:',
+            '1. Launch Fallout 4 through F4SE.',
+            '2. Kill one normal human on dirt where the EBT pool works.',
+            '3. Kill one normal human on concrete where the EBT pool does not render.',
+            '4. Exit the game normally.',
+            '5. Upload EBTSurfaceDiagnostic.log.'
+          )
+          $instructions | Set-Content -Encoding UTF8 (Join-Path $stage 'INSTALL_AND_TEST.txt')
 
           $zip = Join-Path $env:GITHUB_WORKSPACE 'EBTSurfaceDiagnostic_v1_1.11.221_MO2.zip'
           if (Test-Path $zip) { Remove-Item $zip -Force }
